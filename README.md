@@ -1,6 +1,6 @@
 # _League of Legends_ - Data Dragon
 
-Do you want to use DDragon for an another game from _Riot Games_? Check the _Data Dragon_ repository for [_2XKO_](https://github.com/InFinity54/2XKO_DDragon), [_Legends of Runeterra_](https://github.com/InFinity54/LoR_DDragon), or [_Valorant_](https://github.com/InFinity54/Valorant_DDragon). _Teamfight Tactics_ data is now included in this repository.
+Do you want to use DDragon for an another game from _Riot Games_? Check the _Data Dragon_ repository for [_2XKO_](https://github.com/noxelisdev/2XKO_DDragon), [_Legends of Runeterra_](https://github.com/noxelisdev/LoR_DDragon), [_Teamfight Tactics_](https://github.com/noxelisdev/TFT_DDragon), or [_Valorant_](https://github.com/noxelisdev/Valorant_DDragon).
 
 ## Introduction
 _Data Dragon_ is a package of files you can use for your projects about [_League of Legends_](https://www.leagueoflegends.com), distributed by Riot Games. A new version of Data Dragon is released some days after each game update. This repository allows you to update automatically all files more easily.
@@ -59,6 +59,7 @@ This list contains patchs from actual season. For all previous patchs of all pre
 
 The date in front of each patch represents the date when the patch was pushed to this repository, not the date when it was released by Riot Games. Here's a list of all patchs of current seasons included in this repository :
 
+- (June 9th, 2025) 16.12.1 / 26.12
 - (May 28th, 2025) 16.11.1 / 26.11
 - (May 12th, 2025) 16.10.1 / 26.10
 - (April 29th, 2025) 16.9.1 / 26.09
